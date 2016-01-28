@@ -1,0 +1,2 @@
+# SmartDog
+C++ study program
